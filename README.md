@@ -1,0 +1,2 @@
+# myTerraform
+Contains all assignments
